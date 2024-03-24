@@ -36,15 +36,18 @@ distintas temáticas y tipos de actividades gastronómicas.
 **Competidor #1 PilsaEduca:** el modelo de negocio no es el que se persigue y el pago
 y redirecciones no son cómodas. Como puntos positivos los talleres están
 correctamente detallados y poseen una sección de comentarios, además de que se
-puede acceder como usuario.<br>
+puede acceder como usuario.
+
 **Competidor #2 EspaiGranada:** no se puede acceder como usuario y no se dispone
 de sección de comentarios. Como puntos positivos el modelo de negocio no se
 aleja demasiado al que se persigue, los talleres están correctamente detallados y no
-hay tanto exceso de redirecciones.<br>
+hay tanto exceso de redirecciones.
+
 **Competidor #3 BernarditaCocina:** el modelo de negocio no es el que se persigue,
 los talleres solo poseen la información básica (no una descripción suficiente) y no
 hay acceso como usuario. El único punto positivo a destacar con respecto al resto
-es que tecnológicamente es mejor que el resto.<br>
+es que tecnológicamente es mejor que el resto.
+
 **Elección:** El competidor elegido ha sido #2 Espai Granada, ya que es el que menos puntos
 negativos ha obtenido en relación con las características de evaluación, y se ha de
 superar al mejor.
@@ -71,8 +74,7 @@ que le aparece en recomendados.
 ## User Journey Map
 
 **Persona 1: Alfonso David Sánchez**<br>
-Ha escogido [EspaiGranada](https://www.espaigranada.com/) debido a que de todos los que aparecían, era el que más
-se ajustaba a su nivel adquisitivo según la calidad/precio.
+Ha escogido [EspaiGranada](https://www.espaigranada.com/) debido a que de todos los que aparecían, era el que más se ajustaba a su nivel adquisitivo según la calidad/precio.
 
 **Persona 2: Aurelia Gómez Pérez**<br>
 Elige [EspaiGranada](https://www.espaigranada.com/) porque le aparece en recomendaciones, se ve un sitio
@@ -102,5 +104,6 @@ Como conclusión, hay más puntos fuertes que débiles, pero es claro que mejora
 los débiles supondría una relevante evolución de la página.
 
 ## Valoración y conclusiones
-**Valoración:** ha sido complicado comprender lo que había que añadir en cada paso por la falta de experiencia.<br>
+**Valoración:** ha sido complicado comprender lo que había que añadir en cada paso por la falta de experiencia.
+
 **Conclusión:** finalmente se obtiene mucha información sobre los usuarios que resultade gran utilidad a la hora de elegir estrategias de diseño, tomar decisiones de negocio y desarrollar un servicio que satisfaga sus necesidades y expectativas.
