@@ -1,4 +1,4 @@
-## [User Research](User%Research.pdf)
+## User Research
 
 ### Perfiles de usuario
 - Turistas extranjeros que viajen a la ciudad, que les guste la cocina y tengan interés en
@@ -23,7 +23,7 @@ distintas temáticas y tipos de actividades gastronómicas.
 
 ## Desk research: Competitive Analysis
 
-[![Análisis de la competencia](CompetitiveAnalysis.png)](Competitive%Analysis)
+![Análisis de la competencia](CompetitiveAnalysis.png)
 
 **Leyenda:** ✅ Bien    ❔ Regular      ❌ Mal
 
@@ -48,7 +48,7 @@ superar al mejor.
 
 ### Persona 1: Alfonso David Sánchez
 
-[![Foto Persona1](Persona1.jpeg)](Persona%1)
+![Foto Persona1](Persona1.jpeg)
 Se ha elegido esta persona porque parece una persona normal, sin interés relacionado en
 la gastronomía pero que, tras una vida monótona surge un cambio en su vida que le motiva
 a realizar otras actividades como viajar, provocando esto que inicie su interés en usar
@@ -56,7 +56,7 @@ páginas de actividades gastronómicas.
 
 ### Persona 2: Aurelia Gómez Pérez
 
-[![Foto Persona1](Persona2.jpg)](Persona%2)
+![Foto Persona1](Persona2.jpg)
 El motivo de la elección de esta persona es que cubre las características de, en un
 principio no tener ningún interés relacionado con la cocina, pero un evento principal
 (la maternidad) combinado con sus intereses (vida social) y preocupaciones
@@ -65,15 +65,15 @@ que le aparece en recomendados.
 
 ## User Journey Map
 
-[**Persona 1: Alfonso David Sánchez**](Journey%Map%1)
+**Persona 1: Alfonso David Sánchez**
 Ha escogido [EspaiGranada](https://www.espaigranada.com/) debido a que de todos los que aparecían, era el que más
 se ajustaba a su nivel adquisitivo según la calidad/precio.
 
-[**Persona 2: Aurelia Gómez Pérez**](Journey%Map%2)
+**Persona 2: Aurelia Gómez Pérez**
 Elige [EspaiGranada](https://www.espaigranada.com/) porque le aparece en recomendaciones, se ve un sitio
 profesional, aparece la información detallada y hay muchas alternativas.
 
-## [Revisión de Usabilidad](Usability%Review) 
+## Revisión de Usabilidad
 
 ### Puntos fuertes
 - El manejo de errores.
