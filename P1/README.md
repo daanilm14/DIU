@@ -1,3 +1,8 @@
+## Datos identificativos del equipo
+**Nombre del grupo:** DIU2.almendra<br>
+**Nombre de los autores:** Lorena Castellano Fernández y Daniel Lozano Moya<br>
+**Enlace a GitHub:** https://github.com/daanilm14/DIU/tree/master/P1
+
 ## User Research
 
 ### Perfiles de usuario
@@ -31,15 +36,15 @@ distintas temáticas y tipos de actividades gastronómicas.
 **Competidor #1 PilsaEduca:** el modelo de negocio no es el que se persigue y el pago
 y redirecciones no son cómodas. Como puntos positivos los talleres están
 correctamente detallados y poseen una sección de comentarios, además de que se
-puede acceder como usuario.
+puede acceder como usuario.<br>
 **Competidor #2 EspaiGranada:** no se puede acceder como usuario y no se dispone
 de sección de comentarios. Como puntos positivos el modelo de negocio no se
 aleja demasiado al que se persigue, los talleres están correctamente detallados y no
-hay tanto exceso de redirecciones.
+hay tanto exceso de redirecciones.<br>
 **Competidor #3 BernarditaCocina:** el modelo de negocio no es el que se persigue,
 los talleres solo poseen la información básica (no una descripción suficiente) y no
 hay acceso como usuario. El único punto positivo a destacar con respecto al resto
-es que tecnológicamente es mejor que el resto.
+es que tecnológicamente es mejor que el resto.<br>
 **Elección:** El competidor elegido ha sido #2 Espai Granada, ya que es el que menos puntos
 negativos ha obtenido en relación con las características de evaluación, y se ha de
 superar al mejor.
@@ -48,7 +53,7 @@ superar al mejor.
 
 ### Persona 1: Alfonso David Sánchez
 
-![Foto Persona1](Persona1.jpeg)
+![Foto Persona1](Persona1.jpeg)<br>
 Se ha elegido esta persona porque parece una persona normal, sin interés relacionado en
 la gastronomía pero que, tras una vida monótona surge un cambio en su vida que le motiva
 a realizar otras actividades como viajar, provocando esto que inicie su interés en usar
@@ -56,7 +61,7 @@ páginas de actividades gastronómicas.
 
 ### Persona 2: Aurelia Gómez Pérez
 
-![Foto Persona1](Persona2.jpg)
+![Foto Persona1](Persona2.jpg)<br>
 El motivo de la elección de esta persona es que cubre las características de, en un
 principio no tener ningún interés relacionado con la cocina, pero un evento principal
 (la maternidad) combinado con sus intereses (vida social) y preocupaciones
@@ -65,11 +70,11 @@ que le aparece en recomendados.
 
 ## User Journey Map
 
-**Persona 1: Alfonso David Sánchez**
+**Persona 1: Alfonso David Sánchez**<br>
 Ha escogido [EspaiGranada](https://www.espaigranada.com/) debido a que de todos los que aparecían, era el que más
 se ajustaba a su nivel adquisitivo según la calidad/precio.
 
-**Persona 2: Aurelia Gómez Pérez**
+**Persona 2: Aurelia Gómez Pérez**<br>
 Elige [EspaiGranada](https://www.espaigranada.com/) porque le aparece en recomendaciones, se ve un sitio
 profesional, aparece la información detallada y hay muchas alternativas.
 
@@ -97,5 +102,5 @@ Como conclusión, hay más puntos fuertes que débiles, pero es claro que mejora
 los débiles supondría una relevante evolución de la página.
 
 ## Valoración y conclusiones
-**Valoración:** ha sido complicado comprender lo que había que añadir en cada paso por la falta de experiencia
+**Valoración:** ha sido complicado comprender lo que había que añadir en cada paso por la falta de experiencia.<br>
 **Conclusión:** finalmente se obtiene mucha información sobre los usuarios que resultade gran utilidad a la hora de elegir estrategias de diseño, tomar decisiones de negocio y desarrollar un servicio que satisfaga sus necesidades y expectativas.
