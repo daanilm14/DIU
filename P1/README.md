@@ -1,4 +1,4 @@
-## [User Research](User%Research)
+## [User Research](User%Research.pdf)
 
 ### Perfiles de usuario
 - Turistas extranjeros que viajen a la ciudad, que les guste la cocina y tengan interés en
@@ -56,7 +56,7 @@ páginas de actividades gastronómicas.
 
 ### Persona 2: Aurelia Gómez Pérez
 
-[![Foto Persona1](Persona1.jpeg)](Persona%2)
+[![Foto Persona1](Persona2.jpg)](Persona%2)
 El motivo de la elección de esta persona es que cubre las características de, en un
 principio no tener ningún interés relacionado con la cocina, pero un evento principal
 (la maternidad) combinado con sus intereses (vida social) y preocupaciones
