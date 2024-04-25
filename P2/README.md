@@ -67,5 +67,8 @@ La diferencias entre los distintos tipos de usuarios escogidos para el análisis
 #### Mis Talleres
 ![Perfil - Talleres](imgsbocetos/MisTalleres.png)
 
+#### Enlace a boceto responsive
+https://drive.google.com/file/d/1NV2GnYzCf96sfrvG3j10KlVaDEDzRs9f/view?usp=drive_link
+
 ### Conclusiones  
 Las herramientas empleadas establecen una base sobre la que trabajar, enfocada en el usuario y ofreciendo una guía clara para fortalecer la diferenciación (= propuesta de valor). Sin embargo, a medida que se avanza, surgen nuevas ideas y se identifican contradicciones que requieren solución. A pesar de ello, al final del proceso, la base acaba siendo considerablemente sólida.
