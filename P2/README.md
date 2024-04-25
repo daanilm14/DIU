@@ -18,7 +18,7 @@ los logros incluyen acciones como valorar talleres, compartirlos, desempeñar al
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
+#### User Task Matrix 
 ![Task Analysis](TaskAnalysis.png)
 
 La diferencias entre los distintos tipos de usuarios escogidos para el análisis de tareas son:
@@ -28,22 +28,41 @@ La diferencias entre los distintos tipos de usuarios escogidos para el análisis
 - Los interesados en aprender se caracterizan en que su objetivo no es el entretenimiento, si no el aprendizaje en la cocina.
 - Los usuarios no registrados se pueden diferenciar en usuarios que solo están observando la información ofrecida en la página o futuros usuarios de talleres que se registrarán para participar en los talleres. Destacar también que los usuarios no pertenecientes a dicho tipo de usuario, se tratan de usuarios que se han registrado.
 
-* User/Task flow
+#### User/Task flow
 ![User Flow](UserFlow.png)
 
 
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap
+
 ![Sitemap](SiteMap.png)
 
 * Labelling
+
 ![Labelling](Labelling-1.png)
 ![Labelling](Labelling-2.png)
 
 
 ### Prototipo Lo-FI Wireframe 
 
+#### Página de inicio
+![Página de inicio](imgsbocetos/Inicio.png)
+
+#### Lista de talleres
+![Lista de talleres](imgsbocetos/ListaTalleres.png)
+
+#### Vista de un taller específico
+![Taller específico](imgsbocetos/TallerConcreto.png)
+
+#### Al pulsar en perfil sin haber iniciado sesión
+![Registro-Inicio](imgsbocetos/Registrarse-IniciarSesion.png)
+
+#### Mis logros
+![Perfil - Logros](imgsbocetos/MisLogros.png)
+
+#### Mis Talleres
+![Perfil - Talleres](imgsbocetos/MisTalleres.png)
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+Las herramientas empleadas establecen una base sobre la que trabajar, enfocada en el usuario y ofreciendo una guía clara para fortalecer la diferenciación (= propuesta de valor). Sin embargo, a medida que se avanza, surgen nuevas ideas y se identifican contradicciones que requieren solución. A pesar de ello, al final del proceso, la base acaba siendo considerablemente sólida.
