@@ -68,7 +68,7 @@ La diferencias entre los distintos tipos de usuarios escogidos para el análisis
 ![Perfil - Talleres](imgsbocetos/MisTalleres.png)
 
 #### Boceto responsive
-[Lista de Talleres](BocetosBreakpoint.mp4)
+[Lista de Talleres](BocetoBreakpoint.mp4)
 
 ### Conclusiones  
 Las herramientas empleadas establecen una base sobre la que trabajar, enfocada en el usuario y ofreciendo una guía clara para fortalecer la diferenciación (= propuesta de valor). Sin embargo, a medida que se avanza, surgen nuevas ideas y se identifican contradicciones que requieren solución. A pesar de ello, al final del proceso, la base acaba siendo considerablemente sólida.
