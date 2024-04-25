@@ -67,7 +67,7 @@ La diferencias entre los distintos tipos de usuarios escogidos para el análisis
 #### Mis Talleres
 ![Perfil - Talleres](imgsbocetos/MisTalleres.png)
 
-#### Boceto responsive
+#### Enlace a boceto responsive
 [Lista de Talleres](BocetoBreakpoint.mp4)
 
 ### Conclusiones  
