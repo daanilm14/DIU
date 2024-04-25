@@ -8,6 +8,9 @@
 ### Ideación: Mapa de Empatía
 ![Mapa de empatía](MapaEmpatia.png)
 
+Para hacer el mapa de empatía hemos hecho uso de los usuarios ficticios que diseñamos en la práctica anterior. Hemos asociado a cada uno
+un color según su percepción.
+
 ### PROPUESTA DE VALOR
 Cocineando es una asociación que presenta talleres de cocina de distintos tipos y categorías. Ofrece grandes descuentos y ofertas a cambio
 de puntos, que se pueden obtener mediante un sistema de logros. Este sistema hace que los usuarios sean participativos en la web, ya que
