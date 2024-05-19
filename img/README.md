@@ -120,75 +120,50 @@ profesional, aparece la información detallada y hay muchas alternativas.
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Empathy map 
+![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
 
 
-![Mapa de empatía](img/MapaEmpatia.png)
+>>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
-Para hacer el mapa de empatía hemos hecho uso de los usuarios ficticios que diseñamos en la práctica anterior. Hemos asociado a cada uno un color según su percepción.
+
+ Interesante | Críticas     
+| ------------- | -------
+  Preguntas | Nuevas ideas
   
-**Propuesta de valor:**  Cocineando es una asociación que presenta talleres de cocina de distintos tipos y categorías. Ofrece grandes descuentos y ofertas a cambio de puntos, que se pueden obtener mediante un sistema de logros. Este sistema hace que los usuarios sean participativos en la web, ya que los logros incluyen acciones como valorar talleres, compartirlos, desempeñar alguna actividad concreta en algún taller, etc.
+    
+>>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
+>>> Problema e hipótesis
+>>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
+>>> (150-200 caracteres)
+
+
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
-
-![Scope Canvas](img/ScopeCanvas%20copy.png)
+>>> Propuesta de valor 
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 
->>> Definir task analysis y user flow
-#### Task Analysis 
-![Task Analysis](img/TaskAnalysis.png)
-
-La diferencias entre los distintos tipos de usuarios escogidos para el análisis de tareas son:
-- Los habitantes locales se diferencian en que son los usuarios más frecuentes de las actividades.
-- Los turistas extranjeros se caracterizan en que en general solo realizan un taller o muy pocos talleres, por lo que no dará continuidad en la realización de estos. Serían el tipo de usuario que más utilizará el código de bienvenida.
-- Los grupos se caracterizan en que solo realizan talleres en grupo, ya sea reservando la sala completa para el grupo o ocupando una gran parte de esta.
-- Los interesados en aprender se caracterizan en que su objetivo no es el entretenimiento, si no el aprendizaje en la cocina.
-- Los usuarios no registrados se pueden diferenciar en usuarios que solo están observando la información ofrecida en la página o futuros usuarios de talleres que se registrarán para participar en los talleres. Destacar también que los usuarios no pertenecientes a dicho tipo de usuario, se tratan de usuarios que se han registrado.
-
-#### User/Task flow
-![User Flow](img/UserFlow.png)
+>>> Definir "User Map" y "Task Flow" ... 
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
-* Sitemap
 
-![Sitemap](img/SiteMap%20copy.png)
+>>> Identificar términos para diálogo con usuario  
 
-* Labelling
-
-![Labelling](Labelling-1.png)
-![Labelling](Labelling-2.png)
+Término | Significado     
+| ------------- | -------
+  Login¿?  | acceder a plataforma
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-#### Página de inicio
-![Página de inicio](P2/imgsbocetos/Inicio.png)
-
-#### Lista de talleres
-![Lista de talleres](P2/imgsbocetos/ListaTalleres.png)
-
-#### Vista de un taller específico
-![Taller específico](P2/imgsbocetos/TallerConcreto.png)
-
-#### Al pulsar en perfil sin haber iniciado sesión
-![Registro-Inicio](P2/imgsbocetos/Registrarse-IniciarSesion.png)
-
-#### Mis logros
-![Perfil - Logros](P2/imgsbocetos/MisLogros.png)
-
-#### Mis Talleres
-![Perfil - Talleres](P2/imgsbocetos/MisTalleres.png)
-
-#### Enlace a boceto responsive
-[Lista de Talleres](P2/BocetoBreakpoint.mp4)
+>>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
