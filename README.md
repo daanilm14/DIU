@@ -81,7 +81,7 @@ superar al mejor.
 
 ### Persona 1: Alfonso David Sánchez
 
-![Foto Persona1](Persona1.jpeg)<br>
+![Foto Persona1](img/Persona1.jpeg)<br>
 Se ha elegido esta persona porque parece una persona normal, sin interés relacionado en
 la gastronomía pero que, tras una vida monótona surge un cambio en su vida que le motiva
 a realizar otras actividades como viajar, provocando esto que inicie su interés en usar
@@ -89,7 +89,7 @@ páginas de actividades gastronómicas.
 
 ### Persona 2: Aurelia Gómez Pérez
 
-![Foto Persona1](Persona2.jpg)<br>
+![Foto Persona1](img/Persona2.jpg)<br>
 El motivo de la elección de esta persona es que cubre las características de, en un
 principio no tener ningún interés relacionado con la cocina, pero un evento principal
 (la maternidad) combinado con sus intereses (vida social) y preocupaciones
