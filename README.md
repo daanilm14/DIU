@@ -52,7 +52,7 @@ distintas temáticas y tipos de actividades gastronómicas.
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
-![Análisis de la competencia](CompetitiveAnalysis.png)
+![Análisis de la competencia](img/CompetitiveAnalysis.png)
 
 **Leyenda:** ✅ Bien    ❔ Regular      ❌ Mal
 
