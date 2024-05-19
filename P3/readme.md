@@ -116,7 +116,7 @@ de muestra.
 ![Form Input](imgs/input.png)
 
 
-- Shopping cart: desde el principio decidimos no tener carrito..
+- Shopping cart: desde el principio decidimos no tener carrito.
 
 - About: en el about hemos descrito nuestra misión y oferta.
 
