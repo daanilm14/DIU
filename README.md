@@ -320,6 +320,7 @@ de muestra.
 ### Layout
 En nuestro caso hay acciones que hacen que haya más o menos notificaciones, habiendo varias imágenes similares siendo la base la misma,
 por lo que en la memoria solo se incluirán las imágenes con 2 notificaciones. En el enlace a Figma y/o la simulación queda más claro a lo que se está haciendo referencia.
+
 DESCARGARLO PARA QUE SE VEA BIEN.
 
 [Layout](Layout.pdf)
@@ -330,6 +331,7 @@ DESCARGARLO PARA QUE SE VEA BIEN.
 ### Muestra de simulación
 Para la muestra en primer lugar hemos realizado acciones sin identificarse, para mostrar lo que se puede realizar y lo que no sin registrarse (en las acciones que no se pueden realizar te lleva a la pantalla de registrarte) y después iniciando sesión (registrándose ocurre lo mismo).
 
+[Simulación](P3/Simulacion.mp4)
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
