@@ -162,8 +162,8 @@ La diferencias entre los distintos tipos de usuarios escogidos para el análisis
 
 * Labelling
 
-![Labelling](Labelling-1.png)
-![Labelling](Labelling-2.png)
+![Labelling](img/Labelling-1.png)
+![Labelling](img/Labelling-2.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
