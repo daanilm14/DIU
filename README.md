@@ -27,6 +27,7 @@ Miembros
 
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
+[User Research](P1/User%20Research.pdf)
 
 ### Perfiles de usuario
 - Turistas extranjeros que viajen a la ciudad, que les guste la cocina y tengan interés en
@@ -98,6 +99,9 @@ que le aparece en recomendados.
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
+
+[Journey Map Alfonso](P1/Journey%20Map%201.pdf)
+[Journey Map Aurelia](P1/Journey%20Map%202.pdf)
 
 Ambas situaciones a continuación las consideramos habituales:
 
