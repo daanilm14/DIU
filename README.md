@@ -2,7 +2,7 @@
 Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Gastronomía ) 
 
 Grupo: DIU2_almendra.  Curso: 2023/24 
-Updated: 19/5/2024
+Updated: 21/5/2024
 
 Proyecto: 
 >>> COCINEANDO 
